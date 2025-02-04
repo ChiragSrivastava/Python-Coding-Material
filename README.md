@@ -1,10 +1,10 @@
-🐍 Python Coding Material
+#🐍 Python Coding Material
 
-📌 Overview
+##📌 Overview
 
 This repository serves as a comprehensive resource for learning and mastering Python programming. It covers fundamental concepts, advanced topics, and hands-on coding examples to help students, developers, and coding enthusiasts enhance their Python skills.
 
-~ What You'll Learn
+##~ What You'll Learn
 ✅ Python Basics (Syntax, Data Types, Operators)
 ✅ Control Flow (Loops, Conditionals, Functions)
 ✅ Object-Oriented Programming (OOP)
@@ -18,7 +18,7 @@ This repository serves as a comprehensive resource for learning and mastering Py
 📂 Repository Structure
 
 
-📁 PythonCodingMaterial  
+##📁 PythonCodingMaterial  
  ├── 📄 Basics.md             # Python syntax, variables, loops  
  ├── 📄 OOP_Concepts.md       # Classes, Objects, Inheritance  
  ├── 📄 FileHandling.md       # Reading/Writing Files  
@@ -30,11 +30,11 @@ This repository serves as a comprehensive resource for learning and mastering Py
  ├── 📄 README.md             # Project documentation  
 
 
-🎯 Who Can Use This?
+##🎯 Who Can Use This?
 💡 Beginners starting their Python journey.
 🎯 Students preparing for exams, coding interviews, or projects.
 🏆 Developers looking for quick references and best practices.
 
 
-👨‍💻 Contributing
+##👨‍💻 Contributing
 Feel free to contribute by adding new topics, improving explanations, or sharing coding examples!
